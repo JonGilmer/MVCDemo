@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{44B83A25-76DE-473C-B6D6-1A06BDDAE770}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo/Product.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo/Models/ErrorViewModel.cs">
     <Files>
       <File FileName="MVCDemo/Views/Shared/_Layout.cshtml" Line="48" Column="8" />
-      <File FileName="MVCDemo/Product.cs" Line="10" Column="2" />
+      <File FileName="MVCDemo/Product.cs" Line="12" Column="43" />
+      <File FileName="MVCDemo/Models/ErrorViewModel.cs" Line="11" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MVCDemo" expanded="True">
-            <Node name="MVCDemo" expanded="True" selected="True">
+            <Node name="MVCDemo" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="ErrorViewModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True" />
             </Node>
           </Node>
