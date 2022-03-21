@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{44B83A25-76DE-473C-B6D6-1A06BDDAE770}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo/Product.cs">
     <Files>
-      <File FileName="MVCDemo/Views/Shared/_Layout.cshtml" Line="47" Column="8" />
-      <File FileName="MVCDemo/appsettings.json" Line="10" Column="22" />
+      <File FileName="MVCDemo/Views/Shared/_Layout.cshtml" Line="48" Column="8" />
+      <File FileName="MVCDemo/Product.cs" Line="10" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MVCDemo" expanded="True">
-            <Node name="MVCDemo" expanded="True">
+            <Node name="MVCDemo" expanded="True" selected="True">
               <Node name="Views" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
