@@ -1,26 +1,19 @@
 ﻿<Properties StartupConfiguration="{44B83A25-76DE-473C-B6D6-1A06BDDAE770}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="MVCDemo/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="MVCDemo/Views/Shared/_Layout.cshtml" Line="42" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MVCDemo" expanded="True">
             <Node name="MVCDemo" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Shared" expanded="True">
                   <Node name="_Layout.cshtml" selected="True" />
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="js" expanded="True" />
-              </Node>
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
